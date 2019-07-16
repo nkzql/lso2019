@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/mainwindow">
+        <file>picture/timg.jpg</file>
+        <file>picture/smalllogo.jpg</file>
+        <file>picture/white.jpg</file>
+        <file>picture/backgtound.png</file>
+        <file>picture/daily.jpg</file>
+        <file>picture/dayly.png</file>
+        <file>picture/back.jpg</file>
+        <file>picture/end.png</file>
+        <file>picture/logo.jpg</file>
+        <file>picture/pika.jpg</file>
+        <file>picture/1394241600864_middle.gif</file>
+    </qresource>
+</RCC>
